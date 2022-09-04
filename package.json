@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aliad10/refresh-opensea-metadata/issues"
   },
-  "homepage": "https://github.com/aliad10/refresh-opensea-metadata#readme"
+  "homepage": "https://github.com/aliad10/refresh-opensea-metadata#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.4.0"
+  }
 }
