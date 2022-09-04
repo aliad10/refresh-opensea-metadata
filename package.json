@@ -1,0 +1,19 @@
+{
+  "name": "refresh-opensea-metadata",
+  "version": "1.0.0",
+  "description": "an script to auto refresh metadata of items in a collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliad10/refresh-opensea-metadata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliad10/refresh-opensea-metadata/issues"
+  },
+  "homepage": "https://github.com/aliad10/refresh-opensea-metadata#readme"
+}
